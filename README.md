@@ -1,0 +1,2 @@
+# Eauter
+Ok, I want to work in a project that can detect all the stuff that exist in the potable water. I think in a device that everyone can buy, and see what kind of water you are having in front of you. I came from a country in latin america, and you can see every type of water. But, I would like to create a dive that will tell you completely all the characteristics of your water or liquid that you want to drink. For example, a soup, or bottle water, tap water, river water, etc. Soooo that's it .. that it is my device, but first I need to work in my program first.  
